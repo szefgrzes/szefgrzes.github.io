@@ -1,3 +1,6 @@
+# Grzegorz Zamiara
+
+
 ## Informacje o twórcy
 `Nazywam się Grzegorz. Interesuję się głównie grami, bronią i elektroniką czyli na przykład lubię składać komputery. Wcześniej pisałem trochę rzeczy w języku programowania Lua, a w nim pisałem skrypty do gry FiveM. Na codzień posługuję się językiem Polskim (Jest to mój język ojczysty) oraz językiem Angielskim który znam na poziomie podstawowym/średnio zaawansowanym (A1/A2).`
 
